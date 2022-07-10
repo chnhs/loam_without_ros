@@ -1,0 +1,10 @@
+# 系统生成
+.history
+.cache
+.vscode
+
+# 编译生成
+build
+
+# 测试目录
+test
